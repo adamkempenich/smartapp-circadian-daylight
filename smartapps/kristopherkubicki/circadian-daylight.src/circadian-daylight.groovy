@@ -334,7 +334,7 @@ def rgbToHSV(rgb) {
     
     //value
     v = max * 100
-    
+     
     def degreesRange = (360 - 0)
     def percentRange = (100 - 0)
     
